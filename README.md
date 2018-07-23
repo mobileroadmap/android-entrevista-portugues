@@ -11,7 +11,7 @@
 
 | Pergunta | Respostas | Onde foi perguntado |
 |:--------:|:---------:|:-------------------:|
-| O que é `Context` e como é utilizado? | ?  | ?  | 
+| O que é `Context` e como é utilizado? | ?  | O que é `Context` e como é utilizado? O que é `Context` e como é utilizado? O que é `Context` e como é utilizado? O que é `Context` e como é utilizado?   | 
 
 
 #### Activity
