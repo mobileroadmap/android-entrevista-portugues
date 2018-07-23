@@ -9,13 +9,21 @@
 
 #### Geral
 
-| Pergunta | Respostas | Onde foi perguntado |
-|:--------:|:---------:|:-------------------:|
-| O que é `Context` e como é utilizado? | ?  | O que é `Context` e como é utilizado? O que é `Context` e como é utilizado? O que é `Context` e como é utilizado? O que é `Context` e como é utilizado?   | 
+| Pergunta | Resposta | Onde Foi Perguntado |
+|:--------:|:--------:|:-------------------:|
+| O que é `Context` e como é utilizado? | ?  |  ?  | 
+| Quais são os pilares do Android? | ?  |  ?  | 
+| O que é `AndroidManifest.xml`? | ?  |  ?  | 
+| O que é a classe `Application`? | ?  |  ?  | 
+| ? | ?  |  ?  | 
 
 
 #### Activity
 
+| Pergunta | Resposta | Onde Foi Perguntado |
+|:--------:|:--------:|:-------------------:|
+| O que é `Activity`? | ?  |  ?  |
+| Como é o `Ciclo de vida de uma Activity`? | ?  |  ?  |
 
 #### Fragment
 
