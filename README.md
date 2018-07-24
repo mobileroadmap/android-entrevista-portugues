@@ -12,7 +12,7 @@
 | Pergunta | Resposta | Onde Foi Perguntado |
 |:--------:|:--------:|:-------------------:|
 | O que é `Context` e como é utilizado? | É o estado atual da aplicação/objeto, serve para avisar ao objeto o que está acontecendo na aplicação e provê alguns recursos para acesso ao preferences e banco de dados. |  ?  | 
-| Quais são os pilares do Android? | ?  |  ?  | 
+| Quais são os pilares do Android? | Activity, Services, Content Providers e Broadcast Receivers  |  ?  | 
 | O que é `AndroidManifest.xml`? | ?  |  ?  | 
 | O que é a classe `Application`? | ?  |  ?  | 
 | ? | ?  |  ?  | 
