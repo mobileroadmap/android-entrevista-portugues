@@ -13,7 +13,7 @@
 |:--------:|:--------:|:-------------------:|
 | O que é `Context` e como é utilizado? | É o estado atual da aplicação/objeto, serve para avisar ao objeto o que está acontecendo na aplicação e provê alguns recursos para acesso ao preferences e banco de dados. |  ?  | 
 | Quais são os pilares do Android? | Activity, Services, Content Providers e Broadcast Receivers  |  ?  | 
-| O que é `AndroidManifest.xml`? | ?  |  ?  | 
+| O que é `AndroidManifest.xml`? | Arquivo que apresenta informações importantes sobre o aplicativo ao sistema operacional Android. Essas informações servem para o Android executar o aplicativo com suas devidas permissões e configurações  |  ?  | 
 | O que é a classe `Application`? | ?  |  ?  | 
 | ? | ?  |  ?  | 
 
